@@ -1,0 +1,19 @@
+Online Shoppers Purchasing Intention
+
+About Dataset
+
+The dataset consist of 18 features belonging to 12330 sessions. The data types is split into numerical dan categorical data as below : <br>
+
+
+| **Numerical data**     | **Categorical data**|
+|----------------------- |------------- |
+|Administrative | OperatingSystems|
+|Administrative_Duration | Browser|
+|Informational | Region|
+|Informational_Duration | TrafficType|
+|ProductRelated | Month|
+|ProductRelated_Duration | VisitorType|
+|BounceRates | Weekend |
+|ExitRates | Revenue|
+|PageValues |
+|SpecialDay |
